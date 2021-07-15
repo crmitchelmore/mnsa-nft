@@ -1,0 +1,9 @@
+# Installed packages
+node_modules/
+
+# Build output
+build/
+lib/
+
+MNSA.abi
+MNSA.bin

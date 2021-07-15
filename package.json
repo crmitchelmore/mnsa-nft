@@ -1,0 +1,12 @@
+{
+  "name": "nft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "docker build . -t chrismns/mnsa-nft-api && az container create --resource-group eng-days-chris-nft --name mnsa-nft-api --image chrismns/mnsa-nft-api --dns-name-label mnsa-api"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
