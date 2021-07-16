@@ -1,0 +1,11 @@
+{
+	"name": "Tacks",
+	"description": "The original tacks",
+	"image": "https:\/\/raw.githubusercontent.com\/crmitchelmore\/mnsa-nft\/main\/images\/{id}.png",
+	"properties": {
+		"asset": {
+			"type": "usdz",
+			"url": "123",
+		},
+	}
+}

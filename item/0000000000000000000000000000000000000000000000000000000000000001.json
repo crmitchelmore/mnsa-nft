@@ -1,0 +1,11 @@
+{
+	"name": "Golden Till",
+	"description": "Yes",
+	"image": "https:\/\/raw.githubusercontent.com\/crmitchelmore\/mnsa-nft\/main\/images\/{id}.png",
+	"properties": {
+		"asset": {
+			"type": "usdz",
+			"url": "123",
+		},
+	}
+}
